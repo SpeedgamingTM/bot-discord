@@ -1,0 +1,15 @@
+{
+  "name": "gendarmerie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Speed",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "0.1.5"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
+
